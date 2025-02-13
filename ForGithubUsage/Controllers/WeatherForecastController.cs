@@ -33,3 +33,4 @@ namespace ForGithubUsage.Controllers
 }
 
 //BU BENÝM PUBLÝM REPOSÝTORYÝM 1
+// yeni birþeyler yazdým
